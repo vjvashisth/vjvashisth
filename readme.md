@@ -7,7 +7,7 @@ Provided accurate and tailored data research, statistical analysis, and trend an
 #### Key Performance Indicators Forecasting:
 • Forecasting crucial KPIs like Drop Call Rate, Call Setup Success Rate, etc for the next 5 days to plan preventive measures to avoid degradation
 <br>• Modeling techniques used: Time Series Forecasting using Prophet
-• Visualization: IBM Cognos, Tableau
+<br>• Visualization: IBM Cognos, Tableau
 #### Battery Autonomy:
 • Predicting the duration of battery support on sites and compare to mains power outage to avoid the generation of Trouble-tickets or deployment of man-power in field
-• Modeling techniques used: Linear Regression
+<br>• Modeling techniques used: Linear Regression
