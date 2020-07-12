@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://i.imgur.com/USA1bgH.png)](https://www.linkedin.com/in/vijayendra-vashisth/)
+[![Linkedin Badge](https://i.imgur.com/BH0khsM.png)](https://www.linkedin.com/in/vijayendra-vashisth/)
 ## Overview
 Data Scientist with a passion for finding the narrative behind data and telling its story. Able to solve business problems through analytical methodologies and programming. Passionate about constant improvement through lifelong learning and Newton's First Law.
 
