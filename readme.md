@@ -9,5 +9,5 @@ Provided accurate and tailored data research, statistical analysis, and trend an
 <br>• Modeling techniques used: Time Series Forecasting using Prophet
 <br>• Visualization: IBM Cognos, Tableau
 #### Battery Autonomy:
-• Predicting the duration of battery support on sites and compare to mains power outage to avoid the generation of Trouble-tickets or deployment of man-power in field
+• Predicting duration of auxiliary power supply on sites to avoid the generation of Trouble-tickets or deployment of man-power in field
 <br>• Modeling techniques used: Linear Regression
