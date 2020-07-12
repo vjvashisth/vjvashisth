@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://i.imgur.com/USA1bgH.png)](https://www.linkedin.com/in/vijayendra-vashisth/)
+[![Linkedin Badge](https://i.imgur.com/USA1bgH.png?1)](https://www.linkedin.com/in/vijayendra-vashisth/)
 [![Gmail Badge](https://i.imgur.com/cHzBpTN.jpg?1)](mailto:vijayendraaryan@gmail.com)
 ## Overview
 Data Scientist with a passion for finding the narrative behind data and telling its story. Able to solve business problems through analytical methodologies and programming. Passionate about constant improvement through lifelong learning and Newton's First Law.
