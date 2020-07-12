@@ -1,3 +1,4 @@
+<img align="left" width="100" height="100" src="https://www.linkedin.com/feed/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSNzNqEJOR5KF4LKfXSExNw%3D%3D/100/100">
 ## Overview
 Data Scientist with a passion for finding the narrative behind data and telling its story. Able to solve business problems through analytical methodologies and programming. Passionate about constant improvement through lifelong learning and Newton's First Law.
 
