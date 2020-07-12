@@ -1,5 +1,5 @@
 ## Overview
-Data Scientist with a passion for finding the narrative behind data and telling its story. Able to solve business problems through analytical methodologies and programming. <br>Passionate about constant improvement through lifelong learning and Newton's First Law.
+Data Scientist with a passion for finding the narrative behind data and telling its story. Able to solve business problems through analytical methodologies and programming. Passionate about constant improvement through lifelong learning and Newton's First Law.
 
 ## Employment History
 ### Data Scientist at Ericsson (March 2017 — December 2019)
