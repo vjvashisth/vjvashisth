@@ -34,5 +34,6 @@ Provided accurate and tailored data research, statistical analysis, and trend an
 Graduated from Galgotias College of Engineering and Technology, Greater Noida affiliated to Dr. A.P.J. Abdul Kalam Technical University, Lucknow, Uttar Pradesh with First Division
 
 ## Licenses & Certifications
-### [![Linkedin Badge](https://i.imgur.com/8e4Gc7f.png)] Introduction to Deep Learning with OpenCV
-### [![Linkedin Badge](https://i.imgur.com/8e4Gc7f.png)] Learning Git and GitHub
+### [![HackerRank Badge](https://i.imgur.com/RcaN4dc.jpg)](https://www.hackerrank.com/certificates/bcf6554fbd52) Python
+### [![Linkedin Badge](https://i.imgur.com/8e4Gc7f.png)](https://www.linkedin.com/in/vijayendra-vashisth/) Introduction to Deep Learning with OpenCV
+### [![Linkedin Badge](https://i.imgur.com/8e4Gc7f.png)](https://www.linkedin.com/in/vijayendra-vashisth/) Learning Git and GitHub
